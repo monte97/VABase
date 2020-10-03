@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fmonte97_002FDocuments_002F2_005FUNI_002F5_005FSecondoMagistrale_002Fprimo_002FVisione_002Flab_002Fmgy_002FEmgu_002ECV_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fmonte97_002FDocuments_002F2_005FUNI_002F5_005FSecondoMagistrale_002Fprimo_002FVisione_002Flab_002Fmgy_002FEmgu_002ECV_002EWorld_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1048576</s:Int64>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/usr/share/dotnet/sdk/5.0.100-rc.1.20452.10/MSBuild.dll</s:String></wpf:ResourceDictionary>

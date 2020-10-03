@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvtU0bp/j71o8AATSENsvXrWWTvs4nt5/Y43r/zq6vVxD9Fi1ryHBAeeEn1RubXuq0m3k8jSUj9DQYOqGfyfhA==",
+  "success": true,
+  "projectFilePath": "/home/monte97/RiderProjects/BaseProject/BaseProject/BaseProject.csproj",
+  "expectedPackageFiles": [
+    "/home/monte97/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0-preview.2/microsoft.netframework.referenceassemblies.1.0.0-preview.2.nupkg.sha512",
+    "/home/monte97/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0-preview.2/microsoft.netframework.referenceassemblies.net472.1.0.0-preview.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/home/monte97/RiderProjects/BaseProject/BaseProject/bin/Debug/BaseProject.exe
+/home/monte97/RiderProjects/BaseProject/BaseProject/bin/Debug/BaseProject.pdb
+/home/monte97/RiderProjects/BaseProject/BaseProject/bin/Debug/Emgu.CV.UI.dll
+/home/monte97/RiderProjects/BaseProject/BaseProject/bin/Debug/Emgu.CV.World.dll
+/home/monte97/RiderProjects/BaseProject/BaseProject/obj/Debug/BaseProject.csprojAssemblyReference.cache
+/home/monte97/RiderProjects/BaseProject/BaseProject/obj/Debug/BaseProject.csproj.CoreCompileInputs.cache
+/home/monte97/RiderProjects/BaseProject/BaseProject/obj/Debug/BaseProject.csproj.CopyComplete
+/home/monte97/RiderProjects/BaseProject/BaseProject/obj/Debug/BaseProject.exe
+/home/monte97/RiderProjects/BaseProject/BaseProject/obj/Debug/BaseProject.pdb
